@@ -104,5 +104,3 @@ This project helps you learn:
 * Clean code structure
 
 ---
-
-If you like this project, consider giving it a ⭐ on GitHub!
